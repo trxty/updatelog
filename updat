@@ -1,8 +1,11 @@
 update 15.03.23
 
+```
 new logs
 if we missed a shot it shows
 "Missed shot due to (reason)"
 
 if we hitted an oponent it shows
 „Hit [nickname] hitgroup: %s damage: %s hitchance: %s”
+
+```
