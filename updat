@@ -7,4 +7,7 @@ if we missed a shot it shows
 if we hitted an oponent it shows
 „Hit [nickname] hitgroup: %s damage: %s hitchance: %s”
 
+improved resolver
+ported new(old) menu 
+some big changes in lovey visuals/esp/chams
 
